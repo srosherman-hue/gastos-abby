@@ -30,9 +30,9 @@ tipos_fijos = [
 
 tipos_variables = [
     "Mantenimiento de equipo", "Mantenimiento Camiones", "Mantenimiento de Motos", 
-    "Muebles y equipo de oficina", "Bolsas y Envases", "Bandejas y Emboplast (CHAR.)", 
+    "Muebles y equipo de oficina", "Material de Empaque", "Material de empaque Charcuteria", 
     "Papeleria", "Mantenimiento de Local", "ARTICULOS DE LIMPIEZA", "Café", 
-    "Otros Gastos", "Publicidad", "Flet", "Uniformes"
+    "Otros Gastos", "Publicidad", "Flete", "Uniformes"
 ]
 
 st.title("📊 Registro y Control de Gastos")
